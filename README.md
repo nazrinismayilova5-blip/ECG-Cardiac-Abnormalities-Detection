@@ -368,45 +368,40 @@ It covers:
 
 ## References
 
-1)	Pratima Mishra, 23.07.2025, Z-Score Normalization: Definition and Examples
-https://www.geeksforgeeks.org/data-analysis/z-score-normalization-definition-and-examples/
-2)	Emergent Mind, 29.10.2025, Gated Fusion Mechanisms https://www.emergentmind.com/topics/gated-fusion-mechanism
-3)	Patrick W., Nils S., Ralf-Dieter B., Dieter K., Fatima I.L, Wojciech S., Tobias S., 25.05.2020, PTB-XL, a large publicly available electrocardiography dataset
- https://www.nature.com/articles/s41597-020-0495-6
-4)	Sandra S., Krzysztof P., Damian L., 28.09.202, DOI: 10.3390/e23091121, ECG Signal Classification Using Deep Learning Techniques Based on the PTB-XL Dataset
-https://.ncbi.nlm.nih.gov/articles/PMC8469424
-5)	Aquib Irteza R., Valentina N,. Maria V., 30.08.2025, DOI: 10.2147/VHRM.S508620, Deep Learning-Based Detection of Arrhythmia Using ECG Signals - A Comprehensive Review
+1)	Aquib Irteza R., Valentina N,. Maria V., 30.08.2025, DOI: 10.2147/VHRM.S508620, Deep Learning-Based Detection of Arrhythmia Using ECG Signals - A Comprehensive Review
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12406999 
-6)	ECG PTB XL Benchmarking – GitHub Repository
-https://github.com/helme/ecg_ptbxl_benchmarking
-7)	Helsinki-NLP/opus-mt-de-en – Hugging Face
-https://huggingface.co/Helsinki-NLP/opus-mt-de-en
-8)	Transformers – Hugging Face
-https://huggingface.co/docs/transformers/index
-9)	Tokenizing and Padding using Keras – Kaggle Notebook
-https://www.kaggle.com/code/sajjadfc13/tokenizing-and-padding-using-keras/notebook
-10)	Standard Scaler – Scikit Learn
-https://scikit-learn.org/0.22/modules/generated/sklearn.preprocessing.StandardScaler.html
-11)	PTB – XL ECG – 1D Convolution Neural Network
-https://www.kaggle.com/code/jraska1/ptb-xl-ecg-1d-convolution-neural-network
-
-12)	Conv1D – Tensor Flow
-https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv1D
-13)	ECG Classification | CNN + LSTM | Acc 98% - Kaggle Notebook
-https://www.kaggle.com/code/behrouzmirabdi/ecg-classification-cnn-lstm-acc-98#Create-The-Model
-14)	Model – Tensor Flow
-https://www.tensorflow.org/api_docs/python/tf/keras/Model#fit
-15)	Early Stopping – Tensor Flow
-https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping
-16)	Metrics and scoring: quantifying the quality of predictions 
-https://scikit-learn.org/stable/modules/model_evaluation.html
-17)	Automatic ECG diagnosis – GitHub Repository
-https://github.com/antonior92/automatic-ecg-diagnosis
-18)	Naqcho Ali Mehdi, Aamir Ali Drigh, 08.03.2026, ECG Classification on PTB-XL: A Data-Centric Approach with Simplified CNN-VAE 
-https://arxiv.org/pdf/2603.07558
-19)	Mayo Clinic, Electrocardiogram (ECG or EKG)
+2)	Mayo Clinic, Electrocardiogram (ECG or EKG)
 https://www.mayoclinic.org/tests-procedures/ekg/about/pac-20384983
-
+3)	Sandra S., Krzysztof P., Damian L., 28.09.2021, DOI: 10.3390/e23091121, ECG Signal Classification Using Deep Learning Techniques Based on the PTB-XL Dataset
+https://www.mdpi.com/1099-4300/23/9/1121
+4)	Patrick W., Nils S., Ralf-Dieter B., Dieter K., Fatima I.L, Wojciech S., Tobias S., 25.05.2020, PTB-XL, a large publicly available electrocardiography dataset
+ https://www.nature.com/articles/s41597-020-0495-6
+5)	Pratima Mishra, 23.07.2025, Z-Score Normalization: Definition and Examples
+https://www.geeksforgeeks.org/data-analysis/z-score-normalization-definition-and-examples/
+6)	Helsinki-NLP/opus-mt-de-en – Hugging Face
+https://huggingface.co/Helsinki-NLP/opus-mt-de-en
+7)	Transformers – Hugging Face
+https://huggingface.co/docs/transformers/index
+8)	Tokenizing and Padding using Keras – Kaggle Notebook
+https://www.kaggle.com/code/sajjadfc13/tokenizing-and-padding-using-keras/notebook
+9)	ECG PTB XL Benchmarking – GitHub Repository
+https://github.com/helme/ecg_ptbxl_benchmarking
+10)	ECG Classification | CNN + LSTM | Acc 98% - Kaggle Notebook
+https://www.kaggle.com/code/behrouzmirabdi/ecg-classification-cnn-lstm-acc-98#Create-The-Model
+11)	Conv1D – Tensor Flow
+https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv1D
+12)	Model – Tensor Flow
+https://www.tensorflow.org/api_docs/python/tf/keras/Model#fit
+13)	Early Stopping – Tensor Flow
+https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping
+14)	Automatic ECG diagnosis – GitHub Repository
+https://github.com/antonior92/automatic-ecg-diagnosis
+15)	Naqcho Ali Mehdi, Aamir Ali Drigh, 08.03.2026, ECG Classification on PTB-XL: A Data-Centric Approach with Simplified CNN-VAE 
+https://arxiv.org/pdf/2603.07558
+16)	Emergent Mind, 29.10.2025, Gated Fusion Mechanisms
+https://www.emergentmind.com/topics/gated-fusion-mechanism
+17) Metrics and scoring: quantifying the quality of predictions 
+https://scikit-learn.org/stable/modules/model_evaluation.html
 ---
 
 *This project is for research and educational purposes only. It is not a substitute for clinical diagnosis by a licensed physician.*
